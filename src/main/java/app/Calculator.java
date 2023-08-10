@@ -2,7 +2,7 @@ package app;
 
 public class Calculator {
 	CalculatorService service;
-	//hi checking revert s
+	//hi checking revert
 	public Calculator(CalculatorService service) {
 		this.service = service;
 	}
